@@ -10,4 +10,4 @@ Be sure to have your Open GL updated
 In case of error related to "Canvas3D (null)", add this call on the constructor:
 		SimpleUniverse.getPreferredConfiguration();
 
-00 - Hello World
+00 - Hello World - Simple colored cube spinning on the screen
