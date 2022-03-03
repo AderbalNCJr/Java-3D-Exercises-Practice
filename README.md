@@ -11,4 +11,5 @@ In case of error related to "Canvas3D (null)", add this call on the constructor:
 		SimpleUniverse.getPreferredConfiguration();
 
 00 - Hello World - Simple colored cube spinning on the screen
+
 01 - Cone and Cube - A Cone and a Cube spinning side by side
